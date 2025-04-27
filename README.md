@@ -15,6 +15,13 @@ A simple weather app that allows users to check the current weather of any city.
 - **API**: OpenWeatherMap API (or any other weather API)
 - **Version Control**: Git
 
+  ![image](https://github.com/user-attachments/assets/69307186-c88c-40a4-95a3-6e80b3d98b33)
+  ![image](https://github.com/user-attachments/assets/9a81fa56-a81c-4ea4-b5ce-61626dff7d2d)
+  ![image](https://github.com/user-attachments/assets/640338c8-aee6-4e7f-81c4-e2d016c0ee3a)
+
+
+
+
 ## Installation
 
 1. Clone this repository:
